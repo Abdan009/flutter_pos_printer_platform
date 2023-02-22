@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="fail_connect_bt">Tidak dapat membuat sambungan Bluetooth</string>
+    <string name="lost_connection_bt">Sambungan Bluetooth terputus</string>
+    <string name="not_permissions">Harus menerima semua izin agar aplikasi berfungsi</string>
+    <string name="fail_write_data">"Tidak dapat mengirim data ke perangkat lain"</string>
+</resources>
